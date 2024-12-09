@@ -2,3 +2,4 @@ Khởi tạo dự án CLIENT:
   npm create vite@latest
 Khởi tạo dự án SERVER:
   mkdir server
+  npm init
